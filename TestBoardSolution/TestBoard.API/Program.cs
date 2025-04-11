@@ -33,6 +33,5 @@ namespace TestBoard.API
 
             app.Run();
         }
-        // comment
     }
 }
