@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OXH0YZ1T1+U=",
+  "dgSpecHash": "mxZH9Ktou70=",
   "success": true,
   "projectFilePath": "D:\\Helmy\\TestBoardGitHub\\Test-Board\\TestBoardSolution\\TestBoard.API\\TestBoard.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\scalar.aspnetcore\\2.1.11\\scalar.aspnetcore.2.1.11.nupkg.sha512"
   ],
   "logs": []
 }
