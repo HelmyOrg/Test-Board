@@ -1,0 +1,6 @@
+@TestBoard.API_HostAddress = http://localhost:5036
+
+GET {{TestBoard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
