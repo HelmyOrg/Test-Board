@@ -33,3 +33,4 @@ D:\Helmy\TestBoardGitHub\Test-Board\TestBoardSolution\TestBoard.API\obj\Debug\ne
 D:\Helmy\TestBoardGitHub\Test-Board\TestBoardSolution\TestBoard.API\obj\Debug\net9.0\TestBoard.API.pdb
 D:\Helmy\TestBoardGitHub\Test-Board\TestBoardSolution\TestBoard.API\obj\Debug\net9.0\TestBoard.API.genruntimeconfig.cache
 D:\Helmy\TestBoardGitHub\Test-Board\TestBoardSolution\TestBoard.API\obj\Debug\net9.0\ref\TestBoard.API.dll
+D:\Helmy\TestBoardGitHub\Test-Board\TestBoardSolution\TestBoard.API\bin\Debug\net9.0\Scalar.AspNetCore.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestBoard.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdfeb79bb4c0c2b8826cd178616e2914ffd447db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cab5c3d2e3bf05ff6f4eb17bbda9ea3d75d4aa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestBoard.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestBoard.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
