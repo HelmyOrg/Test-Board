@@ -32,6 +32,8 @@ namespace TestBoard.API
             app.MapControllers();
 
             app.Run();
+
+            // Test
         }
     }
 }
